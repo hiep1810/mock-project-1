@@ -1,0 +1,16 @@
+.center-form { 
+    display: flex; 
+    justify-content: center 
+}
+
+.login-form {
+    width: 50%;
+    max-width: 500px;
+    min-width: 250px;
+    margin: 25px;
+    padding: 25px
+}
+
+.login-form>form *{
+    margin: 5px;
+}
